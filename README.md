@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Matheus Calmon</h1>
 <h3 align="center">I'm a backend developer with a passion for exploring the depths of the programming world. With a special focus on Linux, Python and Django technologies, I delve into the complexities of development to create robust and efficient solutions.</h3>
 
-<div align="center">
-  
-[![Nvk1ng](https://github-readme-stats.vercel.app/api/top-langs/?username=Nvk1ng&hide=html&layout=compact&theme=tokyonight)](https://github.com/Nvk1ng/)
-
-</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
