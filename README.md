@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Matheus Calmon</h1>
 <h3 align="center">I'm a backend developer with a passion for exploring the depths of the programming world. With a special focus on Linux, Python and Django technologies, I delve into the complexities of development to create robust and efficient solutions.</h3>
 
+<div align="center">
+  
+[![Nvk1ng](https://github-readme-stats.vercel.app/api/top-langs/?username=Nvk1ng&hide=html&layout=compact&theme=tokyonight)](https://github.com/Nvk1ng/)
+
+</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/matheus-calmon-32a6a6240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/matheus-calmon-32a6a6240/" height="30" width="40" /></a>
