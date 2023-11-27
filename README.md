@@ -6,6 +6,9 @@
 
 ### Ferramentas e skills
 
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
