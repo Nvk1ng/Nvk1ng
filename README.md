@@ -4,6 +4,11 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Matheus Calmon&color=f8efd4&style=for-the-badge&logo=GitHub" alt="ilustração do nome">
 
+### Ferramentas e skills
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+
 <!-- <p> Estudando/trabalhando na **nome do lugar**<br/> Eu sou desenvolvedor **sua área**.</p>
 
 <hr>
