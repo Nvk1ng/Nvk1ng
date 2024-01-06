@@ -4,7 +4,7 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Matheus Calmon&color=f8efd4&style=for-the-badge&logo=GitHub" alt="ilustração do nome">
 
-### Ferramentas e skills
+### Tools and skills
 
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
