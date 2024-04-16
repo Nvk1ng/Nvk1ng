@@ -1,4 +1,4 @@
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NvK1ng&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NvK1ng&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NvK1ng&layout=compact&langs_count=7&theme=dark"/>
 
 ### Currently dedicated to continuous learning in the DevOps field, I am a committed student striving to enhance my skills and contribute to the operational efficiency of software projects.
