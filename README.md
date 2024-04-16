@@ -6,7 +6,6 @@
 
 ### Currently dedicated to continuous learning in the DevOps field, I am a committed student striving to enhance my skills and contribute to the operational efficiency of software projects.
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=Matheus Calmon&color=f8efd4&style=for-the-badge&logo=GitHub" alt="ilustração do nome">
 
 ### Tools and skills
 
