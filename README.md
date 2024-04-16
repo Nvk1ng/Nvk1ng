@@ -4,8 +4,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nvk1ng&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-### Currently dedicated to continuous learning in the DevOps field, I am a committed student striving to enhance my skills and contribute to the operational efficiency of software projects.
-
 
 ### Tools and skills
 
@@ -16,6 +14,3 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-<!-- <p> Estudando/trabalhando na **nome do lugar**<br/> Eu sou desenvolvedor **sua área**.</p>
-
-<hr>
