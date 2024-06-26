@@ -1,16 +1,8 @@
-<div align="center">
-  <a href="https://github.com/Nvk1ng">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nvk1ng&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nvk1ng&layout=compact&langs_count=7&theme=dark"/>
-</div>
+ Hi,i'm Matheus Calmon <img src="https://media.giphy.com/media/QXhSr6NDR4F5t69GL8/giphy.gif" height="80px" width="80px">
+- :mortar_board: Information Systems student at [Infnet](https://www.infnet.edu.br/infnet/home/).
+- :four_leaf_clover: Brazilian,DevOps Enginner
+- :computer: Linux, Python, Docker, Kubernetes, Git
+- :watch: Listen to music,watch animes,code,play games.
 
-
-### Tools and skills
-
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=Kubernetes)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-
+### Contact me :speech_balloon:
+<a href="https://www.linkedin.com/in/matheuscarvalhosanderhus/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
