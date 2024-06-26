@@ -5,4 +5,4 @@
 - :watch: Listen to music,watch animes,code,play games.
 
 ### Contact me :speech_balloon:
-<a href="https://www.linkedin.com/in/matheuscarvalhosanderhus/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://www.linkedin.com/in/matheuscarvalhosanderhus/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
