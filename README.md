@@ -3,8 +3,3 @@
 - :four_leaf_clover: Brazilian, Software Developer
 - :computer: C#, .NET, Linux, Python, Docker, SQL, Git
 - :watch: Listen to music, watch animes, code, play games.
-
-<div align="center">
-  <a href="https://github.com/renan368">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nvk1ng&layout=compact&langs_count=7&theme=dark"/>
-</div>
