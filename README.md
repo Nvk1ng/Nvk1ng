@@ -2,4 +2,4 @@
 - :mortar_board: Information Technology student at [Infnet](https://www.infnet.edu.br/infnet/home/).
 - :four_leaf_clover: Brazilian, Software Developer
 - :computer: .Net/Csharp, Linux, Python, Docker, SQL, Kubernetes
-- :watch: Listen to music, watch animes, code, play games.
+- :watch: Listen to music, watch animes, code, play games
